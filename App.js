@@ -5,7 +5,7 @@ import Exemplo_0 from './componets/exemplo_0';
 
 export default function App() {
   return (
-    <View style={styles.container}>
+    <View style={styles.componets}>
       <Exemplo_0 />
       <StatusBar style="auto" />
     </View>
@@ -13,7 +13,7 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-  container: {
+  componets: {
     flex: 1,
     backgroundColor: '#000',
     alignItems: 'center',
