@@ -7,7 +7,7 @@ function Atividade_1 () {
     return(
      <View style={styles.componets}>
         <Text style={styles.texto}> Atividade 1 </Text>
-     <Text style={styles.texto}>Raphael Tango </Text>
+     <Text style={styles.texto2}>Raphael Tango </Text>
      </View>
     );
 }
