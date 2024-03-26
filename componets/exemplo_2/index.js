@@ -1,5 +1,7 @@
 import {View, Text} from 'react-native';
 
+import Mensagem from './mensagem/styles';
+
 import styles from './styles';
 
 function Exemplo2 () {
@@ -7,11 +9,10 @@ function Exemplo2 () {
         <View style={styles.container}>
             <text style={styles.titulo}>Exemplo2</text>
 
-            <View style={styles.viewmensagem}>
-            <Text style={styles.mensagem}>Ola Raphael</Text>
+            <Mesagem/>
+
         </View>
-        </View>
-        
+ 
     )
 } 
 
