@@ -20,7 +20,7 @@ mensagem:{
 },
 viewmensagem: {
     borderWidth:2,
-    borderColor: 'organge' ,
+    borderColor: 'orange' ,
     borderRadius: 20,
 }
 } );
