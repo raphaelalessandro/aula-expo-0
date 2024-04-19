@@ -6,11 +6,12 @@ import Exemplo_2 from './componets/exemplo_2'
 
 
 import Atividade_1 from './componets/atividade_1';
+import Atividade_2 from './componets/atividade_2';
 
 export default function App() {
   return (
     <View style={styles.componets}>
-      <Exemplo_2 />
+      <Atividade_2 />
       <StatusBar style="auto" />
     </View>
   );
