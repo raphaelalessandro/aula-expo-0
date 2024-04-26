@@ -20,7 +20,7 @@ export default function App() {
 const styles = StyleSheet.create({
   componets: {
     flex: 1,
-    backgroundColor: 'red',
+    backgroundColor: 'yellow',
     alignItems: 'center',
     justifyContent: 'center',
     padding:18,

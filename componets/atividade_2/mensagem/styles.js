@@ -5,11 +5,11 @@ const styles= StyleSheet.create({
 mensagem:{
     fontSize:25,
     margin:10,
-    color:'purple',
+    color:'green',
 },
 viewmensagem:{
     borderWidth:4,
-    borderColor:'#733ba1',
+    borderColor:'blue',
     borderRadius:20,
     marginBottom:10,
 },
