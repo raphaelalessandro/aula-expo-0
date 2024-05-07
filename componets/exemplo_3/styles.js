@@ -20,7 +20,15 @@ botao:{
   width: '80%',
   borderRadius: 20,
   alignItems:'center',
-}
+  borderColor: 'white',
+},
+txtBotao:  {
+  fontSize:25,
+  color:'white',
+},
+botaoPress: {
+  backgroundColor:'white',
+},
 } );
 
 export default styles;
