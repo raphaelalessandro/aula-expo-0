@@ -1,3 +1,4 @@
+
 import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
@@ -28,6 +29,11 @@ txtBotao:  {
 },
 botaoPress: {
   backgroundColor:'white',
+},
+txtNumero: {
+  fontSize: 30,
+  color: 'yellow',
+  marginVertical: 10,
 },
 } );
 
