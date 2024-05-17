@@ -28,7 +28,7 @@ export default function Exemplo_3() {
             <Text style={styles.txtNumero}>{numero}</Text>
 
             <Pressable 
-            onPress={() =>lincremento()}
+            onPress={() =>incremento()}
             style={({pressed}) => pressed ?
            [styles.botao, styles.botaoPress]
             :
