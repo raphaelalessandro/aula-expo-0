@@ -12,7 +12,7 @@ import Atividade_3 from './componets/atividade_3';
 
 export default function App() {
   return (
-    <View style={styles.componets}>
+    <View style={styles.container}>
       <Atividade_3 />
       <StatusBar style="auto" />
     </View>
@@ -20,11 +20,12 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-  componets: {
+  container: {
     flex: 1,
-    backgroundColor: 'yellow',
+    backgroundColor: 'blue',
     alignItems: 'center',
     justifyContent: 'center',
     padding: 18,
   },
 });
+
