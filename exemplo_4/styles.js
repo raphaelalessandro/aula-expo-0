@@ -15,4 +15,14 @@ const styles = StyleSheet.create({
         marginVertical: 20,
         color: 'blue',
     },
+    ineput: {
+        fontSize: 25,
+        color: 'blue',
+        width: '80%',
+        marginVertical: 10,
+        borderWidth: 2,
+        borderColor: 'blue',
+        padding: 5,
+        borderRadius
+    }
 })
